@@ -17,7 +17,7 @@ Thank you for using this tool.
 
 Installation:-
 
-git clone https://github.com/vishal9066/trozonreco
-cd trozonreco
+git clone https://github.com/alok2520/Recontool
+cd recon
 run ./install.sh
-Usage:-
+
