@@ -240,4 +240,4 @@ blc -rof --filter-level 3 https://$1/ | tee $2-brokenlinks.txt
 
 sleep 2
 echo -e "${BOLD}\nAll your outputs are save in ${GREEN}$2/\n" | notify
-echo -e "THANK YOU FOR USING TROZORECON ${NORMAL}" | notify
+echo -e "THANK YOU FOR USING RECONTOOL ${NORMAL}" | notify
