@@ -26,7 +26,7 @@ if [ ! -d "$2" ]; then
         cd /var/www/html/
         mkdir $2
 fi
-
+sudo apt install figlet toilet
 figlet -c ReconTool
 sleep 2
 
