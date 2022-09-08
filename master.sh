@@ -1,5 +1,5 @@
 #!/bin/bash
-#coded by Trozon
+#coded by Loki2520
 
 if [ -z "$1" ]
   then
